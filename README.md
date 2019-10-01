@@ -22,7 +22,7 @@ GitHub Page. This is not my perosnal page. It is only used for CS 291A Assignmen
 
 * Why are there diminishing returns at higher concurrency levels?
 
-  Either the client or the server could have a limit on open or half-open connections. It could stop making mew connections until old connections are closed. It could also simply have ran out cpu, memory, or network resorces.
+  Either the client or the server could have a limit on open or half-open connections. It could stop making mew connections until old connections are closed. It could also simply have ran out cpu, memory, or network resources.
 
 * What’s the performance difference when requesting HTTP and HTTPS?
 
