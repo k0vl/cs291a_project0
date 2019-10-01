@@ -22,7 +22,7 @@ GitHub Page. This is not my perosnal page. It is only used for CS 291A Assignmen
 
 * Why are there diminishing returns at higher concurrency levels?
 
-  Either the client or the server could have a limit on open or half-open connections. It could stop making mew connections until old connections are closed. It could also simply have ran out cpu, memory, or network resources.
+  Either the client or the server could have a limit on open or half-open connections. They could stop making or accepting new connections until old connections are closed. It could also simply have ran out cpu, memory, or network resources.
 
 * What’s the performance difference when requesting HTTP and HTTPS?
 
@@ -33,7 +33,7 @@ GitHub Page. This is not my perosnal page. It is only used for CS 291A Assignmen
 
 * How can github respond so quickly?
 
-  Because it is servering static websites, so there is minimal processing on the server end. Moreover, it probably uses CDN, loadbalancer, or some forms of cache to accelerate the loading.
+  Because it is serving static websites, so there is minimal processing on the server end. Moreover, it probably uses CDN, loadbalancer, or some forms of cache to accelerate the loading.
 
 * What is your site’s “Time to Interactive” according to PageSpeed Insights?
 
